@@ -4,3 +4,6 @@
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/tensorflow/tensorflow.git
+[submodule "pytorch"]
+	path = pytorch
+	url = https://github.com/pytorch/pytorch.git
