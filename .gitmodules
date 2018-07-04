@@ -1,3 +1,6 @@
 [submodule "paddle-mobile"]
 	path = paddle-mobile
 	url = https://github.com/PaddlePaddle/paddle-mobile.git
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/tensorflow/tensorflow.git
