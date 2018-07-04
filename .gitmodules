@@ -1,0 +1,3 @@
+[submodule "paddle-mobile"]
+	path = paddle-mobile
+	url = https://github.com/PaddlePaddle/paddle-mobile.git
